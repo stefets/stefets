@@ -3,7 +3,7 @@
 
 ⚡ flaskdings which is an API and a HTML5 UI to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution.
 
-⚡ A fork of dsacre/mididings to be able to run on the very latest Python version.
+⚡ A fork of dsacre/mididings to be able to compile it and run on the very latest Python version virtual environment as well.
 
 <!--
 **stefets/stefets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
