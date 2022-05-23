@@ -1,11 +1,11 @@
-#### Hi, I maintain 4 repositories to make live music; they all depends on dsacre/mididings
+#### Hi, I maintain 4 repositories to make live music; two of them depends on dsacre/mididings that I have forked
 ⚡ live-config which is my main application for live performance it generate my fatty script for mididings and start the engine.
 
 ⚡ flaskdings which is an API and a HTML5 UI to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution.
 
-⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; so I can send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
-
 ⚡ A fork of dsacre/mididings to be able to compile and run it with the very latest Python version, in a virtual environment.
+
+⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; so I can send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
 
 <!--
 **stefets/stefets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
