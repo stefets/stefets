@@ -3,11 +3,11 @@
 
 ⚡ flaskdings which is an API and a HTML5 UI to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution.
 
-⚡ node-red-flow-mididings which is a Node Red Flow to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution and a alternative of my flaskdings application as well.
-
-⚡ A fork of dsacre/mididings to be able to compile and run it with the very latest Python version, in a virtual environment.
+⚡ node-red-flow-mididings which is a Node Red Flow to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution and a alternative of my flaskdings application as well; my priority is flaskdings and this flow is an experimentation.
 
 ⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; so I can send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
+
+⚡ A fork of dsacre/mididings to be able to compile and run it with the very latest Python version, in a virtual environment.
 
 <!--
 **stefets/stefets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
