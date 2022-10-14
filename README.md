@@ -1,15 +1,14 @@
-### I maintain 5 repositories to make live music; three of them depends on dsacre/mididings that I have forked
+### I maintain 4 repositories to make live music; three of them depends on dsacre/mididings that I have forked
 
-⚡⚡⚡ The most important : A fork of dsacre/mididings to be able to compile and run it with the very latest Python version, in a virtual environment.
+⚡⚡⚡ The most important : A fork of the abandonned by the author, dsacre/mididings, to be able to compile and run it with the very latest Python version, in a virtual environment. It must not die under any condition.
 
 ⚡ live-config which is my main entry point for live performance, a bash script that generate my fatty script for mididings and start the engine.
 
 ⚡ flaskdings which is an API and a HTML5 UI to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution.
 
-⚡ node-red-flow-mididings which is a Node Red Flow to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution and a alternative of my flaskdings application as well; my priority is flaskdings and this flow is an experimentation.
-
 ⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; I send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
 
+😄 I am a collaborator of the mpyg321 project which is a Python wrapper over the mpg123 player. I use this lib as a plugin in stefets/live-config
 
 💬 Need professionnal support ? Contact me via an issue if you are a professionnal musician that want to integerate my solution in your setup.
 
