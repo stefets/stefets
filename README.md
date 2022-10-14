@@ -11,13 +11,9 @@
 ⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; I send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
 
 
+💬 Need professionnal support ? Contact me via an issue if you are a professionnal musician that want to integerate my solution in your setup.
 
-
-💬 Need professionnal support ? Contact me if you are a professionnal musician that want to integerate my solution in your setup.
-#### I am a mididings power user with a five years of learning curve and near, daily usage. I support users on the https://groups.google.com/g/mididings
-
-
-
+#### I am a programmer and a mididings power user with a five years of learning curve and near, daily usage. I support users on the https://groups.google.com/g/mididings
 
 <!--
 **stefets/stefets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
