@@ -1,6 +1,4 @@
-### I maintain 4 repositories to make live music; three of them depends on dsacre/mididings that I have forked
-
-⚡⚡⚡ The most important : A fork of the abandonned by the author, dsacre/mididings, to be able to compile and run it with the very latest Python version, in a virtual environment. IT MUST NOT DIE UNDER ANY CONDITION
+### I maintain three repositories to make live music; two of them depends on github.com/mididings/mididings a well maintained version of github.com/dsacre/mididings
 
 ⚡ live-config which is my main entry point for live performance, a bash script that generate my fatty script for mididings and start the engine.
 
