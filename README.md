@@ -1,4 +1,4 @@
-### I maintain three repositories to make live music; two of them depends on github.com/mididings/mididings a well maintained version of github.com/dsacre/mididings
+### I maintain three repositories to make live music; two of them depends on https://github.com/mididings/mididings a well maintained version of github.com/dsacre/mididings
 
 ⚡ live-config which is my main entry point for live performance, a bash script that generate my fatty script for mididings and start the engine.
 
@@ -6,7 +6,6 @@
 
 ⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; I send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
 
-😄 I am a collaborator of the mpyg321 project which is a Python wrapper over the mpg123 player. I use this lib as a plugin in stefets/live-config
 
 💬 Need professionnal support ? Contact me via an issue if you are a professionnal musician that want to integerate my solution in your setup.
 
