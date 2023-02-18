@@ -1,4 +1,5 @@
-### I maintain three repositories to make live music; two of them depends on https://github.com/mididings/mididings a well maintained version of github.com/dsacre/mididings
+# I maintain three repositories to make live music
+### Two of them depends on https://github.com/mididings/mididings a well maintained version of the abandonned github.com/dsacre/mididings
 
 ⚡ live-config which is my main entry point for live performance, a bash script that generate my fatty script for mididings and start the engine.
 
@@ -9,7 +10,7 @@
 
 Need professionnal support ? Contact me via an issue if you are a professionnal musician that want to integerate my solution in your setup.
 
-#### I am a programmer and a mididings power user with a five years of learning curve and near, daily usage. I support users on the https://groups.google.com/g/mididings
+#### I am a programmer and a mididings power user with years of learning curve and near, daily usage. I support users on the https://groups.google.com/g/mididings
 
 <!--
 **stefets/stefets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
