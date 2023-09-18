@@ -1,18 +1,13 @@
-# I maintain three repositories to make live music
-### Two of them depends on https://github.com/mididings/mididings a well maintained version of the abandonned github.com/dsacre/mididings
+#### My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as *kernel*.
 
-⚡ live-config which is my main entry point for live performance, a bash script that generate my fatty script for mididings and start the engine.
+⚡ [live-config](https://github.com/stefets/live-config) is my *mididings script builder API*, made for my needs but adaptable.
 
-⚡ flaskdings which is an API and a HTML5 UI to communicate with mididings through the OSC protocol. It is a modern alternative to the livedings GUI included in the mididings solution.
+⚡ [flaskdings](https://github.com/stefets/flaskdings) is a Flask API. I wrote it to communicate with my [live-config](https://github.com/stefets/live-config) app. It exposes the following features:
+* An OSC service, using LiveOSC
+* RESTful endpoints doing direct calls to LiveOSC methods
+* A modern HTML5+Bootstrap UI with Flask-SocketIO (A serious alternative to the built-in livedings UI)
 
-⚡ osc-soundcraft-bridge which is a bridge between the OSC protocol and the SoundCraft UI series; I send OSC message via MIDI with mididings and the bridge convert the OSC message to a UI message and send it to the mixer via socket.
-
-I am a programmer and a mididings power user with years of learning curve and near, daily usage. 
-
-I also support users on the https://groups.google.com/g/mididings
-
-Need professionnal support ? Contact me via an issue if you are a professionnal musician that want to integerate my solution in your setup.
-
-
-
-
+⚡ [osc-soundcraft-bridge](https://github.com/stefets/osc-soundcraft-bridge) 
+* It is a bridge between the OSC protocol and the SoundCraft UI series. 
+* A daemon that translate an OSC message to a socket message understood by the Soundcraft server.
+* *It does not depend on mididings*. 
