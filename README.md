@@ -1,4 +1,4 @@
-### My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as *kernel*.
+## My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as *kernel*.
 
 ⚡ [live-config](https://github.com/stefets/live-config) is my *mididings script builder API*, made for my needs but adaptable.
 
