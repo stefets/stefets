@@ -2,7 +2,7 @@ My repositories defined here are intended to be used for performances of all kin
 
 ⚡ [live-config](https://github.com/stefets/live-config) is my *mididings script builder API*, made for my needs but adaptable.
 
-⚡ [flaskdings](https://github.com/stefets/flaskdings) is a Flask API. I wrote it to communicate with my [live-config](https://github.com/stefets/live-config) app. It exposes the following features:
+⚡ [flaskdings](https://github.com/stefets/flaskdings) is a Flask API. I wrote it to communicate with my [mididings script](https://github.com/stefets/live-config). It exposes the following features:
 * An OSC service, using LiveOSC
 * RESTful endpoints doing direct calls to LiveOSC methods
 * A modern HTML5+Bootstrap UI with Flask-SocketIO (A serious alternative to the built-in livedings UI)
