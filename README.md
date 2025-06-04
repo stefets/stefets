@@ -1,6 +1,6 @@
 My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as the *kernel* of my logic.
 
-⚡ [stagedings](https://github.com/stefets/stagedings) is an UI and API I wrote to communicate with mididings API.
+⚡ [stagedings](https://github.com/stefets/stagedings) is a Web UI and API I wrote to navigate scenes and subscenes in mididings
 
 ⚡ [live-config](https://github.com/stefets/live-config) is my *mididings script builder API*, made for my needs but adaptable.
 
