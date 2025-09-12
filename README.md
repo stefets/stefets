@@ -1,4 +1,4 @@
-My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as the *kernel* of my logic.
+My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as the *controller* of my logic.
 
 ⚡ [stagedings](https://github.com/stefets/stagedings) is a Web UI and API I wrote to navigate scenes and subscenes in mididings
 
