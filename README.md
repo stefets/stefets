@@ -1,10 +1,21 @@
-My repositories defined here are intended to be used for performances of all kinds using the awesome [mididings API](https://github.com/mididings/mididings) as the *controller* of my logic.
+# Hi 👋 I'm Stéphane Gagnon
 
-⚡ [stagedings](https://github.com/mididings/stagedings) is a Web UI and API I wrote to navigate scenes and subscenes in mididings and the project is now owned by the **mididings organization** since 2026.01.26
+Developer passionate about **music technology, MIDI, OSC and automation**.
 
-⚡ [live-config](https://github.com/stefets/live-config) is my *mididings script builder API*, made for my needs but adaptable.
+## 🚀 Open Source Projects
+I'm involved in maintaining and developing several projects:
+| Project | Description | Role |
+|-------|-------------| ---- |
+| [mididings](https://github.com/mididings/mididings) | MIDI routing and event processing | Maintainer |
+| [stagedings](https://github.com/mididings/stagedings) | mididings scene/subscene controller  | Creator and maintainer |
+| [osc-soundcraft-bridge](https://github.com/stefets/osc-soundcraft-bridge) | OSC bridge for Soundcraft mixers | Creator and maintainer |
 
-⚡ [osc-soundcraft-bridge](https://github.com/stefets/osc-soundcraft-bridge) 
-* It is a bridge between the OSC protocol and the SoundCraft UI series. 
-* A daemon that translate an OSC message to a socket message understood by the Soundcraft server.
-* *It does not depend on mididings*. 
+## 🎛 Interests
+
+- MIDI / OSC
+- Music technology
+- Automation
+- Self-hosting
+- Open source
+---
+⭐ Feel free to explore my repositories.
