@@ -6,7 +6,7 @@ Developer passionate about **music technology, MIDI, OSC and automation**.
 I'm involved in maintaining and developing several projects:
 | Project | Description | Role |
 |-------|-------------| ---- |
-| [mididings](https://github.com/mididings/mididings) | MIDI routing and event processing | Maintainer |
+| [mididings](https://github.com/mididings/mididings) | MIDI routing and event processing | One of the maintainers |
 | [stagedings](https://github.com/mididings/stagedings) | mididings scene/subscene controller  | Creator and maintainer |
 | [osc-soundcraft-bridge](https://github.com/stefets/osc-soundcraft-bridge) | OSC bridge for Soundcraft mixers | Creator and maintainer |
 
