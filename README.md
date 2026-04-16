@@ -9,6 +9,7 @@ I'm involved in maintaining and developing several projects:
 | [mididings](https://github.com/mididings/mididings) | MIDI routing and event processing | One of the maintainers |
 | [stagedings](https://github.com/mididings/stagedings) | mididings scene/subscene controller  | Creator and maintainer |
 | [osc-soundcraft-bridge](https://github.com/stefets/osc-soundcraft-bridge) | OSC bridge for Soundcraft mixers | Creator and maintainer |
+| [mdg](https://github.com/stefets/mdg) | Configurable tool for generating a midddings script | Creator and maintainer |
 
 ## 🎛 Interests
 
